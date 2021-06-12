@@ -11,4 +11,4 @@ pip install configparser
 
 ## About
 
-Программа для генерации паролей в виде QR Code.
+Программа для отправки E-Mail
